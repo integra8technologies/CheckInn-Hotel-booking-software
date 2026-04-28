@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Checkinn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Checkinn.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
